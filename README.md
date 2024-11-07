@@ -14,8 +14,8 @@
 ####
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbaRVelasco&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="max-width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlbaRVelasco&show_icons=true&locale=en&theme=dracula&hide_border=false" height=170" alt="AlbaRVelasco" style="max-width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbaRVelasco&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph" style="max-width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlbaRVelasco&show_icons=true&locale=en&theme=dracula&hide_border=false" height=170" alt="AlbaRVelasco" style="max-width: 200px;" />
 </div>
 <div align="center">
   
